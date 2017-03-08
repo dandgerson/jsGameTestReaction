@@ -1,0 +1,16 @@
+body {
+		font-family: monospace;
+		font-weight: bold;
+	}
+	p {
+		font-size: 1.2em;
+	}
+		#timeTaken {
+			font-weight: bolder;
+		}
+		#shape {
+			width: 200px;
+			height: 200px;
+			display: none;
+			position: relative;
+		}
